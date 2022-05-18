@@ -66,7 +66,7 @@ void optimalParens(int **s, int i, int j)
 {
     if (i == j)
     {
-        cout << "A" << i - 1;
+        cout << "A" << i;
     }
     else
     {
